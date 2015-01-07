@@ -206,7 +206,7 @@ for (var i in threads) {
 		"db" : "db36955",
 		"collection" : "epizode36955"
 	},
-	"timeMillis" : 185021984,
+	"timeMillis" : 1850219,
 	"counts" : {
 		"input" : 19831300,
 		"emit" : 19831300,
@@ -230,7 +230,7 @@ Przykładowy wynik:
 
 ### Opis
 
-Zmapowanie wszystkich tytułów (wartości unikalnych) do tablic wedłóg typu filmu.
+Zmapowanie wszystkich tytułów (wartości unikalnych) do tablic według typu filmu.
 
 ### Skrypt
 
@@ -310,7 +310,7 @@ for (var i in threads) {
 		"db" : "db12986",
 		"collection" : "tags12986"
 	},
-	"timeMillis" : 314257628,
+	"timeMillis" : 1656228,
 	"counts" : {
 		"input" : 19831300,
 		"emit" : 19831300,
